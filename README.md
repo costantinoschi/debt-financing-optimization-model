@@ -24,11 +24,12 @@ This project provides a tool to optimize the capital structure for portfolio com
     pip install -r requirements.txt
 
 
-## Usage 
-
+## Usage
 Run the model with:
-    ```bash
-    python src/debt_model.py
+
+```bash
+python src/debt_model.py
+```
 
 
 ## Tech Stack
