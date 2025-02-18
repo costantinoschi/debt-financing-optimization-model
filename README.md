@@ -41,10 +41,12 @@ python src/debt_model.py
 ## Example Output
 
 Upon running the script, you will see an output file like:
-    ```bash
-    Optimal Debt Structure: {'senior': 1234567.89, 'mezzanine': 987654.32} 
-    (The numbers are illustrative and will vary based on your inputs)
 
+Optimal Debt Structure: 
+       
+     {'senior': 1234567.89, 'mezzanine': 987654.32}
+
+   (The numbers are illustrative and will vary based on your inputs)
 
 ## Customization
 Modify `cash_flows` and `interest_rate`s in `debt_model.py` to reflect your specific scenario.
